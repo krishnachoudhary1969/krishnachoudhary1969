@@ -64,9 +64,9 @@ I'm **Krishna Choudhary**, a passionate B.Tech CSE student from Graphic Era Hill
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-choudhary-123456/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnachoudhary01)  
-📧 Email: [krishnachoudhary01@gmail.com](mailto:krishnachoudhary01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-choudhary-officia1/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnachoudhary1969)  
+📧 Email: [krishnachoudhary6919@gmail.com](mailto:krishnachoudhary6919@gmail.com)
 
 ---
 
