@@ -48,13 +48,14 @@ I'm **Krishna Choudhary**, a passionate B.Tech CSE student from Graphic Era Hill
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 ![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnachoudhary01&show_icons=true&theme=midnight-purple)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachoudhary01&layout=compact&theme=midnight-purple)
 
 ---
-
+-->
 ## 🏆 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krishnachoudhary01)  
